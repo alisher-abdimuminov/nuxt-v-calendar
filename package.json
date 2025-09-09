@@ -1,6 +1,6 @@
 {
     "name": "nuxt-v-calendar",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "VCalendar Nuxt module",
     "repository": "algolandlabs/nuxt-v-calendar",
     "license": "MIT",
@@ -53,5 +53,6 @@
         "typescript": "~5.9.2",
         "vitest": "^3.2.4",
         "vue-tsc": "^3.0.6"
-    }
+    },
+    "keywords": ["v-calendar", "nuxt", "module"]
 }
