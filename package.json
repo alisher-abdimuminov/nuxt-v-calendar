@@ -2,7 +2,7 @@
     "name": "nuxt-v-calendar",
     "version": "1.0.3",
     "description": "VCalendar Nuxt module",
-    "repository": "algolandlabs/nuxt-v-calendar",
+    "repository": "alisher-abdimuminov/nuxt-v-calendar",
     "license": "MIT",
     "type": "module",
     "exports": {
